@@ -1,8 +1,4 @@
 # Ignore thumbnails created by Windows
 Thumbs.db
-.DS_Store
 # Ignore all tempfiles
 /tmp/*
-# Ignore 
-_old
-_backup
